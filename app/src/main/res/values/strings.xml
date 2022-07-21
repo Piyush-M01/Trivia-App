@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title">TRIVIA</string>
+    <string name="question">Question: 1/10</string>
+    <string name="TRue">TRUE</string>
+    <string name="False">FALSE</string>
+    <string name="Next">NEXT</string>
+
+
+</resources>
